@@ -1,0 +1,8 @@
+UTKFace_filtered
+UTKFace_preprocessed
+UTKFace_sorted
+venv
+
+__pycache__/
+*.DS_Store
+
